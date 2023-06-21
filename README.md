@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Tan Tuan</h1>
 <h3 align="center">i'm trying to be a backend developer</h3>
 
-- 🔭 I’m currently working on **IntellIj**
+- 🔭 I’m currently working on **IntellIj IDEA**
 
 - 🌱 I’m currently learning **springboot,react-vite,docker**
 
