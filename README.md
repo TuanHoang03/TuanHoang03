@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IntellIj**
 
-- 🌱 I’m currently learning **springboot,react-vite,docker**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **hoangtantuan280803@gmail.com**
 
